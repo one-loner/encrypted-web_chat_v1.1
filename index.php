@@ -337,6 +337,6 @@ if ($action !== '') {
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <body>
-<button class="primary login-submit" type="button" onclick="window.location.href='/ec7/web.html'"> Веб версия</button>
+<button class="primary login-submit" type="button" onclick="window.location.href='/web.html'"> Веб версия</button>
 </body>
 </html>
