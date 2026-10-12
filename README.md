@@ -24,5 +24,4 @@
 ## Update2:   
 Добавлен скрипт admin_encrypted.php в котором вместо пароля администратора в явном виде вводится хеш пароля.
 Хеш пароля можно полчить при помощи команды: php -r "echo password_hash('ваш_пароль', PASSWORD_DEFAULT), PHP_EOL;"   
-## Клиент для Android:   
-Данная версия максимально оптимизирована для работы с [Android клиентом](https://github.com/one-loner/EncryptedChatAndroid/).
+
